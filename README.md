@@ -12,7 +12,7 @@ Me chamo Gabriel H Alves Rocha, tenho 19 anos e sou natural de São Paulo (Capit
             src="https://custom-icon-badges.demolab.com/github/stars/Gabriel-H-Alves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Bielzinholl?tab=followers">
+    <a href="https://github.com/Gabriel-H-Alves?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
