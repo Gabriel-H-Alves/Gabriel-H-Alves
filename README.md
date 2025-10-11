@@ -45,18 +45,16 @@ Abaixo estão as principais tecnologias que utilizo, garantindo a visualização
 
 ## 📈 Atividade e Estatísticas (Visualização Estável e Dinâmica)
 
-Para garantir que o **Top Linguagens** e o **Snake Animation** apareçam, vamos manter o layout de dois cartões e adicionar o GIF dinâmico logo abaixo.
-
 <p align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
         alt="Estatísticas do GitHub"
-        width="49%"
+        width="48%"
     />
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&theme=dracula&layout=compact&custom_title=Top Tecnologias&langs_count=9&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
         alt="Top Linguagens"
-        width="49%"
+        width="48%"
     />
 </p>
 
