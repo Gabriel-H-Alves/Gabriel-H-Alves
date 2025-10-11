@@ -2,8 +2,8 @@
     
 # 🚀 Gabriel Rocha: Desenvolvedor Front-End Criativo 🚀
     
-### **Transformando Estratégia em Código e Interfaces de Alto Impacto**
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&random=false&width=900&lines=Transformo+Estratégia+em+Código;+Construindo+Interfaces+de+Alto+Impacto;+Vanilla+JS,+React+e+UX/UI;+SEMPRE+APRENDENDO+E+EVOLUINDO" alt="Typing SVG"/>
+    
 <p>
     <a href="https://github.com/Gabriel-H-Alves?tab=followers">
         <img alt="Seguidores GitHub" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Gabriel-H-Alves?color=663399&labelColor=4B0082&style=for-the-badge&logo=github&label=Seguidores" />
@@ -20,13 +20,14 @@
 
 ## 💡 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela intersecção entre lógica e design. Eu me especializo na construção de interfaces **responsivas, acessíveis e com foco na experiência do usuário (UI/UX)**. Meu objetivo é aplicar o domínio em Vanilla JS, CSS e Git para entregar soluções de software robustas e inovadoras.
+Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela intersecção entre lógica e design. Eu me especializo na construção de interfaces **responsivas, acessíveis e com foco na experiência do usuário (UI/UX)**. Meu objetivo é aplicar o domínio em Vanilla JS, CSS e Git para entregar soluções de software robustas e inovadoras.
 
 ---
 
 ## 🛠️ Minha Stack Completa de Desenvolvimento
 
-Abaixo estão as principais tecnologias que utilizo.
+Abaixo estão as principais tecnologias que utilizo, organizadas para garantir a visualização clara de sua stack completa:
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma" alt="Skills Core: HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma" />
 </p>
@@ -34,15 +35,15 @@ Abaixo estão as principais tecnologias que utilizo.
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="45" height="45"/> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
 </p>
 
 ---
 
-## 📊 Atividade e Estatísticas (Visualização Estável e Dinâmica)
+## 📊 Atividade e Estatísticas (Estável e Visualmente Impactante)
 
 <p align="center">
     <img 
@@ -53,19 +54,7 @@ Abaixo estão as principais tecnologias que utilizo.
 </p>
 
 <p align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&theme=dracula&layout=compact&custom_title=Top Tecnologias&langs_count=9&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
-        alt="Top Linguagens"
-        width="98%"
-    />
-</p>
-
-<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-H-Alves&theme=onedark&no-frame=true&no-bg=true" alt="Troféus do Gabriel H. Alves" />
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 98%;"/>
 </p>
 
 
