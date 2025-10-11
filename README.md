@@ -26,13 +26,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela inters
 
 ## 🛠️ Minha Stack Completa de Desenvolvimento
 
-Para garantir a melhor visualização e estabilidade, organizamos seus ícones de forma compacta e centralizada, usando a cor **roxo/magenta** como destaque para a identidade visual.
+Abaixo estão as principais tecnologias que utilizo, garantindo a visualização clara de sua stack completa:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma,java,python" alt="Minhas Skills: HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma, Java, Python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma" alt="Skills Core: HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma" />
 </p>
 
 <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="45" height="45"/>
@@ -41,20 +43,27 @@ Para garantir a melhor visualização e estabilidade, organizamos seus ícones d
 
 ---
 
-## 📈 Atividade e Estatísticas (Visualização Estável)
+## 📈 Atividade e Estatísticas (Visualização Estável e Dinâmica)
 
-Para resolver o problema de carregamento das estatísticas, utilizei um tema de alto contraste (`dracula`) e uma disposição que prioriza o carregamento estável.
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true&title_color=BD93F9&icon_color=FF79C6" alt="Estatísticas do GitHub">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&theme=dracula&layout=compact&custom_title=Top Tecnologias&langs_count=9&hide_border=true&title_color=BD93F9&icon_color=FF79C6" alt="Top Linguagens">
-</p>
+Para garantir que o **Top Linguagens** e o **Snake Animation** apareçam, vamos manter o layout de dois cartões e adicionar o GIF dinâmico logo abaixo.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"/>
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
+        alt="Estatísticas do GitHub"
+        width="49%"
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&theme=dracula&layout=compact&custom_title=Top Tecnologias&langs_count=9&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
+        alt="Top Linguagens"
+        width="49%"
+    />
 </p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 98%;"/>
+</p>
+
 
 ---
 
