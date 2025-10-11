@@ -42,8 +42,7 @@ Abaixo estão as principais tecnologias que utilizo:
 
 ---
 
-## 📊 Atividade e Estatísticas (Estável e Visualmente Impactante)
-
+## 📊 Atividade e Estatísticas 
 <p align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
