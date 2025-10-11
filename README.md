@@ -20,13 +20,13 @@
 
 ## 💡 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela intersecção entre lógica e design. Eu me especializo na construção de interfaces **responsivas, acessíveis e com foco na experiência do usuário (UI/UX)**. Meu objetivo é aplicar o domínio em Vanilla JS, CSS e Git para entregar soluções de software robustas e inovadoras.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela intersecção entre lógica e design. Eu me especializo na construção de interfaces **responsivas, acessíveis e com foco na experiência do usuário (UI/UX)**. Meu objetivo é aplicar o domínio em Vanilla JS, CSS e Git para entregar soluções de software robustas e inovadoras.
 
 ---
 
 ## 🛠️ Minha Stack Completa de Desenvolvimento
 
-Abaixo estão as principais tecnologias que utilizo, garantindo a visualização clara de sua stack completa:
+Abaixo estão as principais tecnologias que utilizo. A organização em linhas distintas garante que todos os ícones carreguem sem falhas de alinhamento:
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma" alt="Skills Core: HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma" />
@@ -43,27 +43,32 @@ Abaixo estão as principais tecnologias que utilizo, garantindo a visualização
 
 ---
 
-## 📈 Atividade e Estatísticas (Visualização Estável e Dinâmica)
+## 📊 Atividade e Estatísticas (Visualização Estável e Dinâmica)
 
 <p align="center">
     <img 
-        align="left"
         src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
         alt="Estatísticas do GitHub"
-        width="48%"
+        width="98%"
     />
+</p>
+
+<p align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&theme=dracula&layout=compact&custom_title=Top Tecnologias&langs_count=9&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
         alt="Top Linguagens"
-        width="48%"
+        width="98%"
     />
 </p>
-<br clear="left"/>
-<br/>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-H-Alves&theme=onedark&no-frame=true&no-bg=true" alt="Troféus do Gabriel H. Alves" />
+</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 98%;"/>
 </p>
+
 
 ---
 
