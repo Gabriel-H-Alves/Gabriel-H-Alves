@@ -26,8 +26,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela inters
 
 ## 🛠️ Minha Stack Completa de Desenvolvimento
 
-Abaixo estão as principais tecnologias que utilizo, organizadas para garantir a visualização clara de sua stack completa:
-
+Abaixo estão as principais tecnologias que utilizo:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma" alt="Skills Core: HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma" />
 </p>
@@ -63,6 +62,6 @@ Abaixo estão as principais tecnologias que utilizo, organizadas para garantir a
 <div align="center">
     <h3>🌐 Conecte-se e Colabore!</h3>
     <p>Interessado em ver como transformo ideias em código? Explore meus projetos ou entre em contato:</p>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/gabriel-h-rocha/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
