@@ -47,6 +47,7 @@ Abaixo estão as principais tecnologias que utilizo, garantindo a visualização
 
 <p align="center">
     <img 
+        align="left"
         src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide_border=true&title_color=BD93F9&icon_color=FF79C6" 
         alt="Estatísticas do GitHub"
         width="48%"
@@ -57,11 +58,12 @@ Abaixo estão as principais tecnologias que utilizo, garantindo a visualização
         width="48%"
     />
 </p>
+<br clear="left"/>
+<br/>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 98%;"/>
 </p>
-
 
 ---
 
