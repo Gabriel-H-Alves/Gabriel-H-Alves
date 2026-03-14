@@ -1,6 +1,6 @@
 <div align="center">
     
-# 🚀 Gabriel Rocha: Desenvolvedor Front-End Criativo 🚀
+# 🚀 Gabriel Rocha: Desenvolvedor FullStack Criativo 🚀
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&random=false&width=900&lines=Transformo+Estratégia+em+Código;+Construindo+Interfaces+de+Alto+Impacto;+Vanilla+JS,+React+e+UX/UI;+SEMPRE+APRENDENDO+E+EVOLUINDO" alt="Typing SVG"/>
     
