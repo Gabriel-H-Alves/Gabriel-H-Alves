@@ -1,6 +1,8 @@
 <div align="center">
     
 # 🚀 Gabriel Rocha: Desenvolvedor FullStack Criativo 🚀
+
+<br>
     
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&random=false&width=900&lines=Desenvolvedor+Full+Stack;Do+design+à+lógica+de+negócio;Criando+soluções+modernas+e+escaláveis;Código+com+propósito" alt="Typing SVG" />
     
