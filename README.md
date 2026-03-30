@@ -4,7 +4,9 @@
 
 <br>
     
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&random=false&width=900&lines=Desenvolvedor+Full+Stack;Do+design+à+lógica+de+negócio;Criando+soluções+modernas+e+escaláveis;Código+com+propósito" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=Desenvolvedor+Full+Stack;Do+design+à+lógica+de+negócio;Criando+soluções+modernas+e+escaláveis;Código+com+propósito" />
+</p>
     
 <p>
     <a href="https://github.com/Gabriel-H-Alves?tab=followers">
