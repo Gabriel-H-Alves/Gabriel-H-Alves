@@ -20,7 +20,16 @@
 
 ## 💡 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado pela intersecção entre lógica e design. Eu me especializo na construção de interfaces **responsivas, acessíveis e com foco na experiência do usuário (UI/UX)**. Meu objetivo é aplicar o domínio em Vanilla JS, CSS e Git para entregar soluções de software robustas e inovadoras.
+## 💡 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e formado pelo **Instituto PROA**, apaixonado por tecnologia e pela criação de experiências digitais modernas.
+
+Atuo como desenvolvedor **Full Stack**, com foco tanto na construção de interfaces responsivas e intuitivas (UI/UX) quanto no desenvolvimento de sistemas robustos no back-end.
+
+Tenho experiência com **HTML, CSS, JavaScript, React, Node.js e Python**, utilizando também ferramentas como **Git, GitHub e Figma** para criar soluções completas.
+
+🚀 Busco evoluir constantemente e aplicar meus conhecimentos no desenvolvimento de aplicações modernas, performáticas e escaláveis.
+
 
 ---
 
@@ -38,6 +47,7 @@ Abaixo estão as principais tecnologias que utilizo:
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache" width="45" height="45"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/Mysql-original.svg" alt="Windows" width="45" height="45"/>
 </p>
 
 ---
