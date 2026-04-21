@@ -39,7 +39,7 @@ Tenho experiência com **HTML, CSS, JavaScript, React, Node.js e Python**, utili
 
 Abaixo estão as principais tecnologias que utilizo:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma" alt="Skills Core: HTML, CSS, JavaScript, React, Node.js, Git, GitHub, Figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,figma" alt="Skills Core: HTML, CSS, JavaScript, Git, React, Node.js,  GitHub, Figma" />
 </p>
 
 <p align="center">
