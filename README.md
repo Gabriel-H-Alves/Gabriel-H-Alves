@@ -5,7 +5,7 @@
 <br>
     
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=Desenvolvedor+Full+Stack;Do+design+à+lógica+de+negócio;Criando+soluções+modernas+e+escaláveis;Código+com+propósito" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=BD93F9&width=900&lines=Desenvolvedor+Full+Stack;Do+design+%C3%A0+l%C3%B3gica+de+neg%C3%B3cio;Criando+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis;C%C3%B3digo+com+prop%C3%B3sito" />
 </p>
     
 <p>
@@ -22,6 +22,13 @@
 
 ---
 
+### 🏆 Minha Vitrine de Troféus do GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-H-Alves&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Troféus GitHub Gabriel Rocha" />
+</p>
+
+---
+
 ## 💡 Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e formado pelo **Instituto PROA**, apaixonado por tecnologia e pela criação de experiências digitais modernas.
@@ -32,6 +39,17 @@ Tenho experiência com **HTML, CSS, JavaScript, React, Node.js e Python**, utili
 
 🚀 Busco evoluir constantemente e aplicar meus conhecimentos no desenvolvimento de aplicações modernas, performáticas e escaláveis.
 
+---
+
+### 📊 Estatísticas e Sequência de Commits
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-H-Alves&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-H-Alves&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-H-Alves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" />
+</p>
 
 ---
 
@@ -39,7 +57,7 @@ Tenho experiência com **HTML, CSS, JavaScript, React, Node.js e Python**, utili
 
 Abaixo estão as principais tecnologias que utilizo:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,react,nodejs,github,figma" alt="Skills Core: HTML, CSS, JavaScript, Git, React, Node.js,  GitHub, Figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,react,nodejs,github,figma" alt="Skills Core: HTML, CSS, JavaScript, Git, React, Node.js, GitHub, Figma" />
 </p>
 
 <p align="center">
@@ -59,14 +77,10 @@ Abaixo estão as principais tecnologias que utilizo:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gabriel-H-Alves/Gabriel-H-Alves/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-
 ---
 
 <div align="center">
     <h3>🌐 Conecte-se e Colabore!</h3>
     <p>Interessado em ver como transformo ideias em código? Explore meus projetos ou entre em contato:</p>
-    <a href="https://www.linkedin.com/in/gabriel-h-rocha/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/gabriel-h-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
