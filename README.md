@@ -22,13 +22,6 @@
 
 ---
 
-### 🏆 Minha Vitrine de Troféus do GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-H-Alves&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Troféus GitHub Gabriel Rocha" />
-</p>
-
----
-
 ## 💡 Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e formado pelo **Instituto PROA**, apaixonado por tecnologia e pela criação de experiências digitais modernas.
